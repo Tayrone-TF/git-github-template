@@ -10,3 +10,4 @@ Estado:
 
 Na hora de fazer o git push, seu terminal irá pedir a informação do token. Insira esse dado e continue.
 Se tiver qualquer problema ou dúvidas, peça ajuda no fórum!
+Autenticando o token git/github
